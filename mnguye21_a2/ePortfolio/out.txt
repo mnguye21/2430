@@ -1,0 +1,8 @@
+type = "stock"
+symbol = "TDB"
+name = "Toronto Bank"
+quantity = "20"
+price = "6.0"
+bookValue = "0.0
+
+
